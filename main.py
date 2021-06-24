@@ -1,4 +1,4 @@
-# Birhan Berk Oktay - 170401075
+# Birhan Berk Oktay
 
 import random
 import time
